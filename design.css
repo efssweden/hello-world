@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    background-color: #FFFFFF;
+}
+
+#ALLT {
+	position: absolute;
+	padding: 4px;
+	margin: 0px;
+    top: 35%;
+	width: 98%;
+	z-index: 1;
+	text-align: center;
+}
+#RESULTAT {
+	position: absolute;
+	padding: 4px;
+	margin: 0px;
+    top: 10px;
+	width: 98%;
+	z-index: 1;
+	text-align: center;
+}
+
+.Text {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+.Rubrik {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #333333;
+	font-style: italic;
+	font-size: 24px;
+	font-weight: bold;
+}
